@@ -400,6 +400,7 @@
 				353C48B41B766DE200509737 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		353C48B51B766DE200509737 /* Build configuration list for PBXNativeTarget "osxappTests" */ = {
 			isa = XCConfigurationList;
@@ -408,6 +409,7 @@
 				353C48B71B766DE200509737 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
